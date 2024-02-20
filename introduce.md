@@ -8,17 +8,13 @@ PyTorch là một thư viện mã nguồn mở dành cho việc xây dựng và 
 
 ## Bắt đầu với PyTorch
 
-1. **Cài đặt PyTorch**: Bước đầu tiên là cài đặt PyTorch trên máy tính của bạn. Bạn có thể làm điều này bằng cách sử dụng pip:
-
-```
-pip install torch torchvision
-```
+1. **Cài đặt PyTorch**: Bước đầu tiên là vào trang chủ của [Pytorch](https://pytorch.org/get-started/locally/) để cài đặt và chọn các môi trường thích hợp để cài
 2.  **Tensor và Các Phép Toán Cơ bản**: Tensors là cơ sở của PyTorch. Hãy bắt đầu với việc tìm hiểu về tensors và các phép toán cơ bản như cộng, trừ, nhân, chia.
     
 3.  **Autograd và Tính Đạo Hàm Tự động**: PyTorch cung cấp autograd để tính toán tự động các đạo hàm. Học cách sử dụng autograd để tối ưu hóa mô hình của bạn.
     
 
-## Tiếp Tục Học
+## Lợi ích khi học
 
 1.  **Xây dựng Mạng Nơ-ron Sâu**: Hãy tìm hiểu cách xây dựng các mạng nơ-ron sâu bằng PyTorch bằng cách sử dụng các lớp như `nn.Module`, `nn.Linear`, và `nn.Conv2d`.
     
